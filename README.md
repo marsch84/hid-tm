@@ -8,5 +8,6 @@ the device. Instead the driver maps the Y and Z axis to a vendor specific field
 that reflects the actual status of the pedals.
 
 Installation:
-make
-insmod hid-tm.ko
+
+    make
+    insmod hid-tm.ko
